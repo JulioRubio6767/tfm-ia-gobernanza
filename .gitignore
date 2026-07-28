@@ -1,4 +1,4 @@
-# Plantillas de redaccion (delatan uso de IA/plantillas)
+# Archivos locales de configuracion
 plantillas/prompt_redaccion_parrafos_tesis.md
 plantillas/ESQUEMA_TESIS_COMPLETO.md
 plantillas/CATALOGO_FIGURAS.md
@@ -6,7 +6,7 @@ plantillas/OBLIGACIONES_DIRECTOR.md
 plantillas/apa.md
 plantillas/backup/
 
-# Guias del director / UNIR (no son trabajo tuyo)
+# Documentacion externa
 director de tesis directrices.md.txt
 Observaciones Julio Andres Rubio JUL26.txt
 guia_completar_tfm.md
@@ -21,13 +21,13 @@ TFM_Julio_Rubio.docx
 # Archivos grandes de datos
 data/
 
-# Scripts de conversion (delatan proceso de generacion de tesis)
+# Utilidades locales
 scripts/to_html.py
 scripts/convert_to_docx.py
 scripts/_build_html.py
 scripts/_to_html.py
 
-# Outputs que no deben estar en el repo
+# Archivos binarios temporales
 outputs/analysis_results.pkl
 outputs/antigravity/
 outputs/models/
@@ -37,12 +37,11 @@ src/__pycache__/
 __pycache__/
 *.pyc
 
-# Plantilla oficial UNIR
+# Plantilla de formato
 plantilla_individual.docx
 
 # Sistema
 .DS_Store
 scratch/
-
 src/config.py
 src/thesis_style.py
