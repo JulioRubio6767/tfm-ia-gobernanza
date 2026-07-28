@@ -43,3 +43,6 @@ plantilla_individual.docx
 # Sistema
 .DS_Store
 scratch/
+
+src/config.py
+src/thesis_style.py
