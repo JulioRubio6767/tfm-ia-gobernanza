@@ -165,8 +165,8 @@ Las variables del Top 10 son las mismas que se obtendrian con el dataset complet
 
 ### 9.1 Top 10 Variables mas Importantes
 
-| # | Variable | |SHAP| Media | Desv. Est. | Rango | Descripcion |
-|:-:|:---------|:------:|:-------:|:-----:|:----:|
+| # | Variable | SHAP Media | Desv. Est. | Rango | Descripcion |
+|:-:|:---------|:----------:|:----------:|:-----:|:----------:|
 | 1 | **EXT_SOURCE_3** | 0.4249 | 0.4785 | 2.1843 | Puntuacion burea crediticio |
 | 2 | **EXT_SOURCE_2** | 0.3882 | 0.4512 | 2.0818 | Puntuacion burea crediticio |
 | 3 | **HOUSETYPE_MODE** | 0.3719 | 0.3942 | 1.3067 | Tipo de  |
