@@ -1,0 +1,39 @@
+# Plantillas de redaccion (delatan uso de IA/plantillas)
+plantillas/prompt_redaccion_parrafos_tesis.md
+plantillas/ESQUEMA_TESIS_COMPLETO.md
+plantillas/CATALOGO_FIGURAS.md
+plantillas/OBLIGACIONES_DIRECTOR.md
+plantillas/apa.md
+plantillas/backup/
+
+# Guias del director / UNIR (no son trabajo tuyo)
+director de tesis directrices.md.txt
+Observaciones Julio Andres Rubio JUL26.txt
+guia_completar_tfm.md
+instrucciones_tfe.md
+pautas tfm.txt
+
+# Borradores de tesis
+capitulos/TESIS_COMPLETA.md
+capitulos/TESIS_COMPLETA.html
+TFM_Julio_Rubio.docx
+
+# Archivos grandes de datos
+data/
+
+# Outputs que no deben estar en el repo
+outputs/analysis_results.pkl
+outputs/antigravity/
+outputs/models/
+
+# Codigo compilado
+src/__pycache__/
+__pycache__/
+*.pyc
+
+# Plantilla oficial UNIR
+plantilla_individual.docx
+
+# Sistema
+.DS_Store
+scratch/
