@@ -9,16 +9,15 @@
 ## Estructura del repositorio
 
 ```
-scripts/          -> Codigo fuente del pipeline y figuras
+scripts/
   pipeline.py     -> Pipeline completo (274 lineas)
   figures.py      -> Generacion de 30 figuras (807 lineas)
-outputs/figures/  -> 30 figuras generadas (PNG, 300 DPI)
+outputs/
+  figures/        -> 30 figuras generadas (PNG, 300 DPI)
+  artefacto_*     -> Resultados del pipeline (SHAP, scorecard, umbrales)
 plantillas/
   HALLAZGOS_PIPELINE.md  -> Resultados del pipeline con valores reales
   referencias.md          -> 65 fuentes APA 7.0
-src/
-  config.py
-  thesis_style.py
 ```
 
 ## Reproducir el experimento
