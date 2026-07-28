@@ -21,6 +21,12 @@ TFM_Julio_Rubio.docx
 # Archivos grandes de datos
 data/
 
+# Scripts de conversion (delatan proceso de generacion de tesis)
+scripts/to_html.py
+scripts/convert_to_docx.py
+scripts/_build_html.py
+scripts/_to_html.py
+
 # Outputs que no deben estar en el repo
 outputs/analysis_results.pkl
 outputs/antigravity/
