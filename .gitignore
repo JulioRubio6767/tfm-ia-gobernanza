@@ -1,47 +1,10 @@
-# Archivos locales de configuracion
-plantillas/prompt_redaccion_parrafos_tesis.md
-plantillas/ESQUEMA_TESIS_COMPLETO.md
-plantillas/CATALOGO_FIGURAS.md
-plantillas/OBLIGACIONES_DIRECTOR.md
-plantillas/apa.md
-plantillas/backup/
-
-# Documentacion externa
-director de tesis directrices.md.txt
-Observaciones Julio Andres Rubio JUL26.txt
-guia_completar_tfm.md
-instrucciones_tfe.md
-pautas tfm.txt
-
-# Borradores de tesis
-capitulos/TESIS_COMPLETA.md
-capitulos/TESIS_COMPLETA.html
-TFM_Julio_Rubio.docx
-
-# Archivos grandes de datos
-data/
-
-# Utilidades locales
-scripts/to_html.py
-scripts/convert_to_docx.py
-scripts/_build_html.py
-scripts/_to_html.py
-
-# Archivos binarios temporales
-outputs/analysis_results.pkl
-outputs/antigravity/
-outputs/models/
-
-# Codigo compilado
-src/__pycache__/
+# Python
 __pycache__/
 *.pyc
 
-# Plantilla de formato
-plantilla_individual.docx
+# Datos
+data/
 
 # Sistema
 .DS_Store
 scratch/
-src/config.py
-src/thesis_style.py
